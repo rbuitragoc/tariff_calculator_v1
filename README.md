@@ -1,6 +1,6 @@
 # Tariff Calculator
 
-VH MDE Mission March 2020
+## VH MDE Mission March 2020
 
 This is a REST API that provides comparison between two electricity utility bundle products: 
 
