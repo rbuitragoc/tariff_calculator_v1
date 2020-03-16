@@ -22,6 +22,7 @@ The request is done via HTTP GET (below example uses cURL utility):
 
 ### Functional
  - proper input error handling
+ - RESTful features like support for `ACCEPT
  - flexibility to add new products by providing a standardized pricing configuration
  
 ### Technical Debt
