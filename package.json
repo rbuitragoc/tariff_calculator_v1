@@ -15,7 +15,7 @@
   "author": "Rick Buitrago",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.21"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
